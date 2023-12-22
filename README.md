@@ -1,4 +1,4 @@
-# Linear Search and Binary search
+# EX-07:Linear Search and Binary search
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
 ## Equipment’s required:
